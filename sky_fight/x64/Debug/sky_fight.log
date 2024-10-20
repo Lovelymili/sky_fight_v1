@@ -1,0 +1,12 @@
+﻿  sky_fight.cpp
+C:\Users\Administrator\OneDrive\Desktop\cpp学习\sky_fight\sky_fight.cpp(32,69): warning C4244: “参数”: 从“_Rep”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\OneDrive\Desktop\cpp学习\sky_fight\sky_fight.cpp(32,69): warning C4244:         with
+C:\Users\Administrator\OneDrive\Desktop\cpp学习\sky_fight\sky_fight.cpp(32,69): warning C4244:         [
+C:\Users\Administrator\OneDrive\Desktop\cpp学习\sky_fight\sky_fight.cpp(32,69): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Administrator\OneDrive\Desktop\cpp学习\sky_fight\sky_fight.cpp(32,69): warning C4244:         ]
+C:\Users\Administrator\OneDrive\Desktop\cpp学习\sky_fight\sky_fight.cpp(205,69): warning C4244: “参数”: 从“_Rep”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\OneDrive\Desktop\cpp学习\sky_fight\sky_fight.cpp(205,69): warning C4244:         with
+C:\Users\Administrator\OneDrive\Desktop\cpp学习\sky_fight\sky_fight.cpp(205,69): warning C4244:         [
+C:\Users\Administrator\OneDrive\Desktop\cpp学习\sky_fight\sky_fight.cpp(205,69): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Administrator\OneDrive\Desktop\cpp学习\sky_fight\sky_fight.cpp(205,69): warning C4244:         ]
+  sky_fight.vcxproj -> C:\Users\Administrator\OneDrive\Desktop\cpp学习\sky_fight\x64\Debug\sky_fight.exe
